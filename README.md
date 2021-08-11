@@ -14,6 +14,7 @@
             脚手架： npx create-next-app my-app
             请求库：fetch
             css: tailwindcss
+            代理插件：http-proxy-middleware
     3、开发阶段：
         1、方案：开发阶段和生产阶段，程序run的方式完全不同。开发阶段，nodejs服务端和nextjs app分别运行在不同的端口上。这种方式前后端分离，并且开发测试起来很快。
 
